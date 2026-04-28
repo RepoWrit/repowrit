@@ -160,3 +160,24 @@ RepoWrit is a proprietary SaaS product. This repository serves as the community 
 <p align="center">
   <sub>Built with conviction in India · Powered by Claude 4.5 · <a href="https://repowrit.com">repowrit.com</a></sub>
 </p>
+
+# RepoWrit
+
+<p align="center">
+  <a href="https://repowrit.com">
+    <img src="https://repowrit.com/icon.svg" alt="RepoWrit" width="64" height="64" />
+  </a>
+</p>
+
+<h1 align="center">RepoWrit</h1>
+
+<p align="center">
+  <strong>Documentation on Autopilot.</strong> Powered by Claude 4.5.<br />
+  Turn every git commit into executive briefings, architecture maps, and up-to-date docs.
+</p>
+
+<p align="center">
+  <a href="https://repowrit.com">repowrit.com</a> · <a href="https://repowrit.com/pricing">Pricing</a> · <a href="https://repowrit.com/changelog">Changelog</a> · <a href="https://repowrit.com/privacy">Privacy</a>
+</p>
+
+---
