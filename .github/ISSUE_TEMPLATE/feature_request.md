@@ -16,8 +16,8 @@ A clear description of what you'd like to happen.
 Any alternative solutions or workarounds you've thought about.
 
 **Your use case**
-- Role: (e.g. developer, engineering manager, CTO)
-- Plan tier: (Hobby / Builder / Scale)
+- Role: (e.g. developer, engineering manager, CTO, founder)
+- Plan tier: (Hobbyist / BYOK / Team / Enterprise)
 - Team size: (approximate)
 
 **Additional context**

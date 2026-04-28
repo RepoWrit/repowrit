@@ -22,7 +22,8 @@ What actually happened.
 
 **Repository context**
 - Repository language(s): (e.g. TypeScript, Python)
-- Plan tier: (Hobby / Builder / Scale)
+- Plan tier: (Hobbyist / BYOK / Team / Enterprise)
+- Branch affected: (e.g. main, develop)
 - Approximate repo size: (e.g. ~200 files)
 
 **Screenshots or logs**
